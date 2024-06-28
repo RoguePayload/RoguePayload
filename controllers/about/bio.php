@@ -1,0 +1,31 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h2 class="about_title">About Dr. Aubrey W. Love II (AKA Rogue Payload)</h2>
+            <p class="about_description">
+                Growing up, technology was an inescapable part of my life. This exposure, while initially forced upon me, became a source of deep fascination. I often ponder whether this fascination stemmed from a desire to please my father, whose rare moments of interaction with me were overshadowed by his violent temper, or from the mysterious and intriguing nature of technology itself.<br/>
+                <br/>
+                My programming journey took a significant turn in the late 90s when websites began to emerge, and there was a scarcity of programmers in this niche. My father owned a small computer repair shop, where I had the opportunity to work and design a few websites. Two technological devices profoundly impacted my interest in programming. The first was an old Heath Hero Jr kit, a robot that captivated me with its mechanical intricacies. The second was a Commodore 64, which allowed me to develop more complex programming models with the help of books from local bookstores and libraries.<br/>
+                <br/>
+                In 2007, I graduated from high school through homeschooling, and my parents finally divorced. My brother and I went with our mother and stayed with her parents for a while. During this period, I worked multiple jobs to help support my family. I reconnected with an old crush, and we soon married, forging a new bond.<br/>
+                <br/>
+                Among my younger days, while in the midst of college and university studies, I found myself apart of a couple of different hacktivist groups. Upon which I handled multiple operations for intercepting connections, hacking databases, and defacing websites. On top of rising my underground reputation, I was also publishing multiple articles and helping push the underground hacking scene to new heights. Some of my targets consisted of E-Commerce based websites. These where rather easy for me to hack into their databases utilizing various XSS and SQL Injection attacks. I would also interfere with connections and hacked multiple individuals and harvest their credentials on open wi-fi networks 
+                at the local coffe shops and restaurants that offered free WiFi. I had carefully crafted my own trojans and viruses that was able to be undected by Avast, Norton, and even Windows Defender. The release of some of my tools resulted in scam groups growing in size and popularity. <br/>
+                <br/>
+                Over the next few years, my wife and I enrolled in Weatherford College, where I studied video game design and development. I excelled academically, was the top student in my classes, held weekly tutoring sessions, and was elected team leader for several group projects. Following this, I attended ITT Tech to further my programming and server management skills. Unfortunately, the online division was shut down, voiding my work. However, I transitioned to another university, where I completed CLEP exams and, with the support of advisors and instructors, graduated with a Ph.D. in Computer Science.<br/>
+                <br/>
+                During my time at Ashley University, quantum computing was a burgeoning field that fascinated me. I was fortunate to be among the first to design and create codes for these powerful machines, mastering advanced languages like Qisket. Despite being promised a position with a leading company, a change in ownership nullified this opportunity. Attempts to secure positions at IBM, NASA, and other leading organizations in quantum computing often resulted in being deemed "overqualified."<br/>
+                <br/>
+                Throughout my life, I have been considered the "black sheep" of my family. This perception stems from my deviation from family traditions, such as not joining the military. To gain family acknowledgment, I pursued an advanced diploma, started my own companies, and endured the challenging kitchen life. Despite these efforts, I struggled with internal despair, chasing what I believed others wanted from me rather than my true passions.<br/>
+                <br/>
+                While attending college, my wife and I welcomed our second child, a daughter. I juggled side gigs, website development work, and the pressure of bills piling up. Eventually, I found a stable position as a cook, advancing to roles such as executive chef and sous chef. During this time, we had two more daughters, but my personal life was in turmoil. My marriage was strained, and I was deeply unhappy, contemplating suicide.<br/>
+                <br/>
+                A turning point came when I secured a job in computer programming, leading to a move two hours east of our hometown. Although the job was short-lived, it was during this period that I gave my life to Jesus Christ. I started a handyman business and later invested in a food truck business. Despite initial success, I was forced out by a former mentor, leading to financial and personal setbacks.<br/>
+                <br/>
+                Returning to our hometown, I reflected on my true passion—astronomy. I established a small lab on my computer for astrophysics research and published several scientific papers, which received positive recognition. Simultaneously, I co-founded "DarkMatrix Cyber Solutions," a cyber security agency, with a talented business partner. As the CTO, I focused on designing AI and ML programs and securing systems.<br/>
+                <br/>
+                Looking ahead, I am determined to pursue further studies in astrophysics and aim to earn a second Ph.D. in my desired field. With a bright future in astrophysics research and the development of our cyber security agency, I hope to provide a better life for my family and achieve my lifelong dream of exploring the cosmos.<br/>
+            </p>
+        </div>
+    </div>
+</div>
