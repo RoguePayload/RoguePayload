@@ -1,5 +1,5 @@
 # RoguePayload
-![RoguePayload](/media/img/aubrey.jpg "Dr. Aubrey W. Love (AKA Rogue Payload)")
+![RoguePayload](/media/img/rogue_payload.jpg "Dr. Aubrey W. Love (AKA Rogue Payload)")
 An exceedingly comprehensive and robust web site designed and built for Dr. Aubrey W. Love II (AKA Rogue Payload). The primary focus upon this website is to provide amazing and rich content in order to allow viewers to understand who Aubrey is, what has he done, and read his work. 
 
 ## What Is Inside?
