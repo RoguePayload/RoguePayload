@@ -87,11 +87,11 @@ contact.php ~ harnesses multiple different sections.
 
 ## Connect With Aubrey
 _If you would like to reach out to Aubrey (Rogue Payload), please utilize any of the following methods:_
-- * Email: [info@roguepayload.space](mailto:info@roguepayload.space)  
-- * Twitter: [Rogue_Payload](https://www.twitter.com/Rogue_payload)  
-- * Facebook: [RoguePayload](https://www.facebook.com/RoguePayload)  
-- * LinkedIn: [RoguePayload](https://www.linkedin.com/in/rogue-payload/)  
-- * Wattpad: [RoguePayload](https://www.wattpad.com/user/RoguePayload)  
-- * ResearchGate: [Aubrey Love II](https://www.researchgate.net/profile/Aubrey-Love-Ii)  
-- * Medium: [RoguePayload](https://www.medium.com/@roguepayload)  
-- * Website: [roguepayload.space](https://www.roguepayload.space)  
+- Email: [info@roguepayload.space](mailto:info@roguepayload.space)  
+- Twitter: [Rogue_Payload](https://www.twitter.com/Rogue_payload)  
+- Facebook: [RoguePayload](https://www.facebook.com/RoguePayload)  
+- LinkedIn: [RoguePayload](https://www.linkedin.com/in/rogue-payload/)  
+- Wattpad: [RoguePayload](https://www.wattpad.com/user/RoguePayload)  
+- ResearchGate: [Aubrey Love II](https://www.researchgate.net/profile/Aubrey-Love-Ii)  
+- Medium: [RoguePayload](https://www.medium.com/@roguepayload)  
+- Website: [roguepayload.space](https://www.roguepayload.space)  
